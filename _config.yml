@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eoin Delaney"
-  avatar           : "profile_pic.png"
+  avatar           : "eoin_delaney.png"
   bio              : "PhD student at University College Dublin. Interested in explainable AI"
   location         : "Dublin, Ireland"
   employer         :
