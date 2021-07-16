@@ -14,7 +14,7 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conferences
-1. [Instance-based Counterfactual Explanations for Time Series Classification](https://arxiv.org/abs/2002.04333)  
+1. [Instance-based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf)  
   *29th International Conference on Case-Based Reasoning (ICCBR-21), Virtual, September 2021*   
   Eoin Delaney, Derek Greene and Mark T. Keane
 1. [If Only We Had Better Counterfactual Explanations: Five Key Deficits to Rectify in the Evaluation of Counterfactual XAI Techniques](https://arxiv.org/abs/2103.01035)  
