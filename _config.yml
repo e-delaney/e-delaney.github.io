@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eoin Delaney"
   avatar           : "eoin.png"
-  bio              : "PhD student at University College Dublin. Interested in explainable AI"
+  bio              : "PhD student at University College Dublin. Interested in explainable AI."
   location         : "Dublin, Ireland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
