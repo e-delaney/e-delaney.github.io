@@ -22,7 +22,7 @@ author_profile: true
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney, and Barry Smyth   
   
 ### Workshops
-1. Uncertainty Estimation and Out-of-Distribution Detection for Counterfactual Explanations: Pitfalls and Solutions  
+1. [Uncertainty Estimation and Out-of-Distribution Detection for Counterfactual Explanations: Pitfalls and Solutions](https://arxiv.org/pdf/2107.09734.pdf)  
   *ICML (International Conference on Machine Learning) Workshop on Algorithmic Recourse, Vienna, July 2021*  
   Eoin Delaney, Derek Greene and Mark T. Keane
 1. [Twin Systems for DeepCBR: A Menagerie of Deep Learning and Case-Based Reasoning Pairings for Explanation and Data Augmentation](https://arxiv.org/ftp/arxiv/papers/2104/2104.14461.pdf)  
