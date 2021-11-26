@@ -14,7 +14,7 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conferences
-1. [Instance-based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf)  
+1. [Instance-based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf). **Best Student Paper**   
   *29th International Conference on Case-Based Reasoning (ICCBR-21), Virtual, September 2021*   
   Eoin Delaney, Derek Greene and Mark T. Keane
 1. [If Only We Had Better Counterfactual Explanations: Five Key Deficits to Rectify in the Evaluation of Counterfactual XAI Techniques](https://arxiv.org/abs/2103.01035)  
@@ -31,3 +31,9 @@ author_profile: true
   1. [Post-hoc Explanation Options for XAI in Deep Learning: The Insight Centre for Data Analytics Perspective.](https://link.springer.com/chapter/10.1007/978-3-030-68796-0_2)  
   *International Conference on Pattern Recognition (ICPR), Virtual, September 2021*  
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney and Derek Greene
+
+### Activities
+
+* I have been invited to be a programme comittee member for the [xplainable Agency in Artificial Intelligence Workshop](https://sites.google.com/view/eaai2022/topic?authuser=0)  at AAAI-22.
+
+* I am a reviewer for [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618).
