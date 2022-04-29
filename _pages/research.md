@@ -34,8 +34,8 @@ author_profile: true
 
 ### Activities
 
-* I have been invited to be a programme comittee member for the [Explainable Agency in Artificial Intelligence Workshop](https://sites.google.com/view/eaai2022/topic?authuser=0)  at AAAI-22.
+* I have been invited to be a program committee member for the [Explainable Agency in Artificial Intelligence Workshop](https://sites.google.com/view/eaai2022/topic?authuser=0)  at AAAI-22.
 
-* Programme comitee member for [AIES'22](https://www.aies-conference.com/2022/).
+* Program committee member for [AIES'22](https://www.aies-conference.com/2022/).
 
 * I am a reviewer for [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618).
