@@ -19,8 +19,11 @@ author_profile: true
   Eoin Delaney, Derek Greene and Mark T. Keane
 1. [If Only We Had Better Counterfactual Explanations: Five Key Deficits to Rectify in the Evaluation of Counterfactual XAI Techniques](https://arxiv.org/abs/2103.01035)  
   *International Joint Conference on Artificial Intelligence (IJCAI-21), Montreal, August 2021*   
-  Mark T. Keane, Eoin M. Kenny, Eoin Delaney, and Barry Smyth   
-  
+  Mark T. Keane, Eoin M. Kenny, Eoin Delaney, and Barry Smyth
+1. [Forecasting for Sustainable Dairy Produce: Enhanced Long-Term, Milk-Supply Forecasting Using k-NN
+for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.com/papers/delaney22iccbr.pdf)  
+  *To Appear in ICCBR-22*   
+  Eoin Delaney, Derek Greene and Mark T. Keane 
 ### Workshops
 1. [Uncertainty Estimation and Out-of-Distribution Detection for Counterfactual Explanations: Pitfalls and Solutions](https://arxiv.org/pdf/2107.09734.pdf)  
   *ICML (International Conference on Machine Learning) Workshop on Algorithmic Recourse, Vienna, July 2021*  
@@ -33,6 +36,9 @@ author_profile: true
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney and Derek Greene
 
 ### Activities
+* I have recieved a scholarship from AIES to present my research at the AIES student track. 
+
+* I have received a scholarship for attending the ICCBR-22 doctoral consortium. 
 
 * I have been invited to be a program committee member for the [Explainable Agency in Artificial Intelligence Workshop](https://sites.google.com/view/eaai2022/topic?authuser=0)  at AAAI-22.
 
