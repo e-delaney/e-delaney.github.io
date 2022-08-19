@@ -23,7 +23,14 @@ author_profile: true
 1. [Forecasting for Sustainable Dairy Produce: Enhanced Long-Term, Milk-Supply Forecasting Using k-NN
 for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.com/papers/delaney22iccbr.pdf)  
   *To Appear in ICCBR-22*   
-  Eoin Delaney, Derek Greene and Mark T. Keane 
+  Eoin Delaney, Derek Greene and Mark T. Keane
+1. [Advancing Nearest Neighbor Explanation-by-Example with Critical Classification Regions] 
+  *Under Review*   
+  Eoin M. Kenny, Eoin Delaney and Mark T. Keane
+1. [Nearest Neighbour-Based Data Augmentation for Time Series Forecasting.] 
+  *AIES-21*   
+  Duncan Wallace, Eoin Delaney, Mark T. Keane and Derek Greene
+
 ### Workshops
 1. [Uncertainty Estimation and Out-of-Distribution Detection for Counterfactual Explanations: Pitfalls and Solutions](https://arxiv.org/pdf/2107.09734.pdf)  
   *ICML (International Conference on Machine Learning) Workshop on Algorithmic Recourse, Vienna, July 2021*  
