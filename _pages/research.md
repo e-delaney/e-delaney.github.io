@@ -24,10 +24,10 @@ author_profile: true
 for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.com/papers/delaney22iccbr.pdf)  
   *To Appear in ICCBR-22*   
   Eoin Delaney, Derek Greene and Mark T. Keane
-1. [Advancing Nearest Neighbor Explanation-by-Example with Critical Classification Regions] 
+1. Advancing Nearest Neighbor Explanation-by-Example with Critical Classification Regions
   *Under Review*   
   Eoin M. Kenny, Eoin Delaney and Mark T. Keane
-1. [Nearest Neighbour-Based Data Augmentation for Time Series Forecasting.] 
+1. Nearest Neighbour-Based Data Augmentation for Time Series Forecasting.
   *AIES-21*   
   Duncan Wallace, Eoin Delaney, Mark T. Keane and Derek Greene
 
