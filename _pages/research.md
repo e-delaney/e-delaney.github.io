@@ -21,8 +21,8 @@ author_profile: true
   *International Joint Conference on Artificial Intelligence (IJCAI-21), Montreal, August 2021*   
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney, and Barry Smyth
 1. [Forecasting for Sustainable Dairy Produce: Enhanced Long-Term, Milk-Supply Forecasting Using k-NN
-for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.com/papers/delaney22iccbr.pdf)  
-  *To Appear in ICCBR-22*   
+for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.com/papers/delaney22iccbr.pdf). *** Best Paper **  
+  *ICCBR-22*   
   Eoin Delaney, Derek Greene and Mark T. Keane
 1. Advancing Nearest Neighbor Explanation-by-Example with Critical Classification Regions.
   *Under Review.*   
