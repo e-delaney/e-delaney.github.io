@@ -24,11 +24,14 @@ author_profile: true
 for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.com/papers/delaney22iccbr.pdf). **Best Paper**  
   *ICCBR-22*   
   Eoin Delaney, Derek Greene and Mark T. Keane
-1. Advancing Nearest Neighbor Explanation-by-Example with Critical Classification Regions.
-  *Under Review.*   
+1. Counterfactual Explanations for Misclassified Images: How Human and Machine Explanations Differ
+  *Under Review.*     
+1. Advancing Post-Hoc Case-Based Explanation with Feature Highlighting.
+  *Under Review.*
+  Eoin Delaney, Arjun Pakrashi, Derek Greene and Mark T. Keane
   Eoin M. Kenny, Eoin Delaney and Mark T. Keane
 1. Nearest Neighbour-Based Data Augmentation for Time Series Forecasting.
-  *AIES-21.*   
+  *AICS-21.*   
   Duncan Wallace, Eoin Delaney, Mark T. Keane and Derek Greene
 
 ### Workshops
@@ -43,6 +46,9 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney and Derek Greene
 
 ### Activities
+
+* I am honoured to receive the national award of Best Application of AI in a Student Project.
+
 * I have recieved a scholarship from AIES to present my research at the AIES student track. 
 
 * I have received a scholarship for attending the ICCBR-22 doctoral consortium. 
@@ -52,3 +58,5 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
 * Program committee member for [AIES'22](https://www.aies-conference.com/2022/).
 
 * I am a reviewer for [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618).
+
+* Check out the UCD Discovery [podcast](https://open.spotify.com/episode/42oIFAxE0BweL0uRAoF1fM?si=71ad8318a4914c2f) where I discuss my work on Counterfactual Explanations and the overconfident nature of many AI systems. 
