@@ -26,10 +26,7 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
   Eoin Delaney, Derek Greene and Mark T. Keane
 1. Counterfactual Explanations for Misclassified Images: How Human and Machine Explanations Differ
   *Under Review.*     
-1. Advancing Post-Hoc Case-Based Explanation with Feature Highlighting.
-  *Under Review.*
   Eoin Delaney, Arjun Pakrashi, Derek Greene and Mark T. Keane
-  Eoin M. Kenny, Eoin Delaney and Mark T. Keane
 1. Nearest Neighbour-Based Data Augmentation for Time Series Forecasting.
   *AICS-21.*   
   Duncan Wallace, Eoin Delaney, Mark T. Keane and Derek Greene
