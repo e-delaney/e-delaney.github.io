@@ -47,7 +47,7 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
 
 ### Activities
 
-* I am honoured to receive the national award of Best Application of AI in a Student Project.
+* I am honoured to receive the national award of [Best Application of AI in a Student Project](https://www.insight-centre.org/insights-eoin-delaney-wins-2022-ai-ireland-award/).
 
 * I have recieved a scholarship from AIES to present my research at the AIES student track. 
 
