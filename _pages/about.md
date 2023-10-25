@@ -12,5 +12,7 @@ Hi! I am Eoin Delaney, a Ph.D. student at University College Dublin. I work in t
 
 In October 2023 I will be joining the University of Oxford as a Postdoctoral Researcher. I will be working on the Trustworthiness Auditing for AI project. I will be mainly working on the technical side of this project with Prof. Chris Russell. However, I will also be closely collaborating with Prof. Brent Mittelstadt and Prof. Sandra Wachter. 
 
+A recent version of my c.v. can be found [here](https://github.com/e-delaney/e-delaney.github.io/edit/master/_pages/cv_eoin_delaney.pdf).
+
 ### More Fun Facts
 Outside of research, I enjoy travel, sport and eating good food. My profile photo is from Glacier Point in Yosemite National Park, a really cool place! I love programming and solving interesting problems. My background is in mathematics and physics. I also spent some time teaching these subjects at school and college. I am passionate about promoting computer science and mathematics to all people of all age groups! I co-designed a [website](https://maths.ucd.ie/geatamata/) for children containing lessons about various cool topics including cryptography and probability.   
