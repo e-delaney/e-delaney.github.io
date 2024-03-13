@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Eoin Delaney, a postdoctoral researcher at the University of Oxford. Currently I am working on the Trustworthiness Auditing for AI project. I mainly work on the technical side of this project with Prof. Chris Russell. However, I closely collaborate with Prof. Brent Mittelstadt and Prof. Sandra Wachter. At the moment we are working on building a toolkit for measuring and enforcing fairness for high-capacity models. 
+Hi! I am Dr. Eoin Delaney, a postdoctoral researcher at the University of Oxford. I am excited to be working on the Trustworthiness Auditing for AI project. I mainly work on the technical side of this project with Prof. Chris Russell. However, I closely collaborate with Prof. Brent Mittelstadt and Prof. Sandra Wachter. At the moment we are working on building a toolkit for measuring and enforcing fairness for high-capacity models. 
 
 Previously I obtained my Ph.D. from University College Dublin. I worked at the [Insight Centre for Data Analytics](https://www.insight-centre.org/) and the VistaMilk SFI research centre. My advisors were [Dr. Derek Greene](http://www.derekgreene.com/) and [Prof. Mark T. Keane](https://scholar.google.com/citations?hl=en&user=bBozfc4AAAAJ&view_op=list_works). 
 
