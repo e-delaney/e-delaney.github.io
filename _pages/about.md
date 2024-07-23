@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my academic webpage! I am a postdoc at the University of Oxford on the Trustworthiness Auditing for AI project. I mainly work on the technical side of this project with Prof. Chris Russell but we closely collaborate with Prof. Brent Mittelstadt and Prof. Sandra Wachter. At the moment I am working on building OxonFair[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894794] an open-source toolkit for measuring and enforcing fairness for high-capacity models in computer vision and NLP. 
+Hi, welcome to my academic webpage! I am a postdoc at the University of Oxford on the Trustworthiness Auditing for AI project. I mainly work on the technical side of this project with Prof. Chris Russell but we closely collaborate with Prof. Brent Mittelstadt and Prof. Sandra Wachter. At the moment I am working on building [OxonFair](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894794) an open-source toolkit for measuring and enforcing fairness for high-capacity models in computer vision and NLP. 
 
 My research interests are in **explainable and trustworthy AI**. I publish in top machine learning journals, conferences and workshops. I have won two best paper awards. I also enjoy working on applied probelems. I won a national award for the [Best Application of AI in a Student Project](https://twitter.com/EoinDelaney_/status/1595436264878215169) for my work on interpretable machine learning with applications in smart agriculture. I have extensive experience with several deep learning and machine learning libraries (Pytorch, Tensorflow 2.0, Tslearn, Sklearn). I also have skills in designing large scale user studies for XAI on [Prolific](https://www.prolific.co/) (a better alternative to Mechanical Turk).
 
