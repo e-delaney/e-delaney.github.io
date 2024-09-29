@@ -17,7 +17,7 @@ author_profile: true
 1. [OxonFair: A Flexible Toolkit for Algorithmic Fairness](https://arxiv.org/pdf/2407.13710v1).
    NeurIPS 2024 (Main Track)
    Eoin Delaney, Zihao Fu and Chris Russell.
-1. [Counterfactual explanations for misclassified images: How human and machine explanations differ.]((https://www.sciencedirect.com/science/article/pii/S0004370223001418).
+1. [Counterfactual explanations for misclassified images: How human and machine explanations differ](https://www.sciencedirect.com/science/article/pii/S0004370223001418).
    Artificial Intelligence (Top AI Journal)
    Eoin Delaney, Arjun Pakrashi, Derek Greene and Mark T. Keane.
 1. [Instance-based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf). **Best Student Paper**   
