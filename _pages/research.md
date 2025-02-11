@@ -50,7 +50,7 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
 
 ### Activities
 
-* I am on the progran committee for ACM FAccT 2025. 
+* I am on the program committee for ACM FAccT 2025. 
 
 * I organized a workshop on [Auditing Accountability in Trustworthy Artificial Intelligence with Applications in Personalised Medicine](https://oxaihealth.github.io/). Big shout our and thanks to St Annes College Oxford and the GET team for helping me with this! 
 
