@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- ### Journals -->
 
-### Conferences and Journals
+### Select Conferences and Journals
 1. [OxonFair: A Flexible Toolkit for Algorithmic Fairness](https://arxiv.org/pdf/2407.13710v1).
    In *NeurIPS* 2024 Main Track.
    Eoin Delaney, Zihao Fu and Chris Russell.
@@ -49,6 +49,10 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney and Derek Greene
 
 ### Activities
+
+* I am on the progran committee for ACM FAccT 2025. 
+
+* I organized a workshop on [Auditing Accountability in Trustworthy Artificial Intelligence with Applications in Personalised Medicine](https://oxaihealth.github.io/). Big shout our and thanks to St Annes College Oxford and the GET team for helping me with this! 
 
 * I am honoured to receive the national award of [Best Application of AI in a Student Project](https://www.insight-centre.org/insights-eoin-delaney-wins-2022-ai-ireland-award/).
 
