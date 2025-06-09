@@ -20,4 +20,4 @@ I love programming and solving interesting problems (especially the difficult on
 
 I have some capacity for consults that align with my reseach. Please reach out if this is of interest. 
 
-[A recent version of my CV can be found [here](http://e-delaney.github.io/files/cv_eoin_delaney.pdf).]
+A recent version of my CV can be found [here](http://e-delaney.github.io/files/cv_eoin_delaney.pdf).
