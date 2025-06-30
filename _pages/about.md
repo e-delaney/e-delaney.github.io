@@ -18,6 +18,6 @@ I obtained my Ph.D. from University College Dublin. I worked at the [Insight Cen
 
 I love programming and solving interesting problems (especially the difficult ones). My background is in mathematics and physics. I also spent some wonderful time teaching these subjects at high school (Newpark Comprehensive School) and university. I am passionate about equality, diversity and inclusion and promoting computer science and mathematics to all people of all age groups! I co-designed a [website](https://maths.ucd.ie/geatamata/) for children containing lessons about various cool topics including cryptography and probability. I have experience supervising masters and visiting Ph.D. students at the University of Oxford. I also organized a workshop on AI and Accountability in St. Annes College Oxford. 
 
-If you have project ideas that align with my research or would like to write a proposal for funding (e.g., Marie Curie), please reach out! I also have some capacity for consults that align with my reseach. Please reach out if this is of interest. 
+If you have project ideas that align with my research or would like to write a proposal for funding (e.g., Marie Curie), please reach out! I also have some capacity for consults that align with my research. Please reach out if this is of interest. 
 
 A recent version of my CV can be found [here](http://e-delaney.github.io/files/cv_eoin_delaney.pdf).
