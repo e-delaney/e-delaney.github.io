@@ -32,9 +32,6 @@ author_profile: true
 for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.com/papers/delaney22iccbr.pdf). **Best Paper**  
   *ICCBR-22*   
   Eoin Delaney, Derek Greene and Mark T. Keane
-1. Counterfactual Explanations for Misclassified Images: How Human and Machine Explanations Differ
-  *Under Review.*     
-  Eoin Delaney, Arjun Pakrashi, Derek Greene and Mark T. Keane
 1. Nearest Neighbour-Based Data Augmentation for Time Series Forecasting.
   *AICS-21.*   
   Duncan Wallace, Eoin Delaney, Mark T. Keane and Derek Greene
