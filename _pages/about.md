@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my academic webpage! I recently joined Trinity College Dublin in Spring 2025 as a faculty member in the School of Computer Science and Statistics. **I am currently looking to hire 2 x PhD students!**
+Hi, welcome to my academic webpage! I am a faculty member in the School of Computer Science and Statistics at Trinity College Dublin. Before that I spent some wonderful time at the University of Oxford as a postdoc. **I am currently looking to hire 2 x PhD students!**
 
 My research interests are in **responsible AI**, encompassing **fairness**, **explainability** and **sustainability**. I publish in top conferences (NeurIPS, FAccT, AAAI, IJCAI), journals (AIJ) and workshops in my field. I have won two best paper awards. I also enjoy working on applied problems. I won a national award for the [Best Application of AI in a Student Project](https://twitter.com/EoinDelaney_/status/1595436264878215169) for my work on interpretable machine learning with applications in sustainable smart agriculture. I have extensive experience with deep learning and machine learning frameworks (Pytorch, Tensorflow, Tslearn, Sklearn). I also have skills in designing large scale user studies for evaluating explanations of AI systems on [Prolific](https://www.prolific.co/). 
 
