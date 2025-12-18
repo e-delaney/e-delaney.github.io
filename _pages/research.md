@@ -18,7 +18,8 @@ author_profile: true
    In *NeurIPS* 2024 Main Track.
    Eoin Delaney, Zihao Fu and Chris Russell.
 1. [Evaluating Model Explanations without Ground Truth](https://arxiv.org/pdf/2505.10399). In *FAccT* 2025.
-   Kai Rawal, Zihou Fu, Eoin Delaney and Chris Russell. 
+   Kai Rawal, Zihou Fu, Eoin Delaney and Chris Russell.
+1. [FairImagen: Post-Processing for Bias Mitigation in Text-to-Image Models](https://arxiv.org/pdf/2510.21363). In *NeurIPS* 2025 Main Track. Zihao Fu, Ryan Brown, Shun Shao, Kai Rawal, Eoin Delaney, Chris Russell.
 1. [Counterfactual explanations for misclassified images: How human and machine explanations differ](https://www.sciencedirect.com/science/article/pii/S0004370223001418).
    *Artificial Intelligence* (Top AI Journal).
    Eoin Delaney, Arjun Pakrashi, Derek Greene and Mark T. Keane.
