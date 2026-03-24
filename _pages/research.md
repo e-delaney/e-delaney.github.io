@@ -13,6 +13,9 @@ author_profile: true
 
 <!-- ### Journals -->
 
+### Research Group
+I have recently started a research group in Trinity Colleg Dublin focused on Reliable and Human-Centered Machine Learning. I supervise 3 Phd Students and several Masters Students. 
+
 ### Select Conferences and Journals
 1. [OxonFair: A Flexible Toolkit for Algorithmic Fairness](https://arxiv.org/pdf/2407.13710v1).
    In *NeurIPS* 2024 Main Track.
@@ -49,11 +52,10 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney and Derek Greene
 
 ### Activities
-
-* I regularly serve on the program committee for ACM FAccT, AIES, NeurIPS, ICCBR.
+* I organize the School of Computer Science and Statistics Seminar Series at Trinity College Dublin. We have lots of cool speakers lined up for 2026 such as Abeba Birhane from the AI Accountability Lab and Oisin Mac Aodha from the University of Edinburgh.  
+* I regularly serve on the program committee for conferences such as ACM FAccT, AIES, NeurIPS, ICCBR and workshops such as the [Explainable Agency in Artificial Intelligence Workshop](https://sites.google.com/view/eaai2022/topic?authuser=0)  at AAAI.
 * I serve as a reviewer for journals such as [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618) and [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence). 
 * I organized a workshop on [Auditing Accountability in Trustworthy Artificial Intelligence with Applications in Personalised Medicine](https://oxaihealth.github.io/). Big shout our and thanks to St Annes College Oxford and the GET team for helping me with this! 
 * I am honoured to receive the national award of [Best Application of AI in a Student Project](https://www.insight-centre.org/insights-eoin-delaney-wins-2022-ai-ireland-award/).
 * I have recieved a scholarships from AIES and ICCBR to present my research. 
-* I have been invited to be a program committee member for the [Explainable Agency in Artificial Intelligence Workshop](https://sites.google.com/view/eaai2022/topic?authuser=0)  at AAAI-22.
 * Check out the UCD Discovery [podcast](https://open.spotify.com/episode/42oIFAxE0BweL0uRAoF1fM?si=71ad8318a4914c2f) where I discuss my work on Counterfactual Explanations and the overconfident nature of many AI systems. 
