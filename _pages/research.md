@@ -52,6 +52,7 @@ for Data Augmentation, with Prefactual Explanations for XAI](http://derekgreene.
   Mark T. Keane, Eoin M. Kenny, Eoin Delaney and Derek Greene
 
 ### Activities
+* I was awarded funding from the Central Bank of Ireland to support my research on XAI, including the recrutiment of a PhD Student. 
 * I organize the School of Computer Science and Statistics Seminar Series at Trinity College Dublin. We have lots of cool speakers lined up for 2026 such as Abeba Birhane from the AI Accountability Lab and Oisin Mac Aodha from the University of Edinburgh.  
 * I regularly serve on the program committee for conferences such as ACM FAccT, AIES, NeurIPS, ICCBR and workshops such as the [Explainable Agency in Artificial Intelligence Workshop](https://sites.google.com/view/eaai2022/topic?authuser=0)  at AAAI.
 * I serve as a reviewer for journals such as [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618) and [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence). 
