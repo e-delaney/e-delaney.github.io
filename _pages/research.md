@@ -14,7 +14,7 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Research Group
-I lead a research group in Trinity Colleg Dublin focused on Reliable and Human-Centered Machine Learning. Currently, I supervise 3 PhD Students and several Masters Students. 
+I lead a research group in Trinity College Dublin focused on Reliable and Human-Centered Machine Learning. Currently, I supervise 3 PhD Students and several Masters Students. 
 
 ### Select Conferences and Journals
 1. [OxonFair: A Flexible Toolkit for Algorithmic Fairness](https://arxiv.org/pdf/2407.13710v1).
