@@ -13,8 +13,8 @@ author_profile: true
 
 <!-- ### Journals -->
 
-### Research Group
-I lead a research group in Trinity College Dublin focused on Human-Centered Machine Learning. We are especially interested in building more reliable, interpretable and transparent machine learning systems. 
+### Research Group in Human-Centered Machine Learning
+I lead a research group in Trinity College Dublin focused on Human-Centered Machine Learning. We are especially interested in building more reliable, interpretable and transparent machine learning systems.
 
 Currently, I supervise 3 PhD Students and several Masters and Undergraduate Students. 
 
