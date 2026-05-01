@@ -18,9 +18,9 @@ I lead a research group in Trinity College Dublin focused on Human-Centered Mach
 
 Currently, I supervise 3 PhD Students and several Masters and Undergraduate Students. 
 
-[Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/) Co-supervised with Prof. Mark Keane (September 2025).
-[Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true) (September 2025). 
-[Yunyi Shang] - Co-supervised with Prof. Gregory O'Hare (March 2026). 
+* [Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/) CBI-Insight PhD Programme. Co-supervised with Prof. Mark Keane (September 2025).
+* [Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true) (September 2025). 
+* [Yunyi Shang](https://www.linkedin.com/in/yunyishang/) - CKDelta-TCD. Co-supervised with Prof. Gregory O'Hare (March 2026). 
 
 ### Select Conferences and Journals
 1. [OxonFair: A Flexible Toolkit for Algorithmic Fairness](https://arxiv.org/pdf/2407.13710v1).
