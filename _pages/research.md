@@ -20,7 +20,8 @@ Currently, I supervise 3 PhD Students and several Masters and Undergraduate Stud
 
 * [Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/). Co-supervised with Prof. Mark Keane (Start Date - September 2025).
 * [Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true). (Start Date - September 2025). 
-* [Yunyi Shang](https://www.linkedin.com/in/yunyishang/). Co-supervised with Prof. Gregory O'Hare (Start Date - March 2026). 
+* [Yunyi Shang](https://www.linkedin.com/in/yunyishang/). Co-supervised with Prof. Gregory O'Hare (PI) (Start Date - March 2026).
+* [Open Position in Machine Learning](https://drive.google.com/file/d/155qM4tL_VVxOIZejGFO9gf97mnNL4PoJ/view?usp=share_link) (Principal Supervisor Dr. Mimi Zhang, Co-Supervisor Me!)  
 
 ### Select Conferences and Journals
 1. [OxonFair: A Flexible Toolkit for Algorithmic Fairness](https://arxiv.org/pdf/2407.13710v1).
