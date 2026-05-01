@@ -14,7 +14,13 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Research Group
-I lead a research group in Trinity College Dublin focused on Reliable and Human-Centered Machine Learning. Currently, I supervise 3 PhD Students and several Masters Students. 
+I lead a research group in Trinity College Dublin focused on Human-Centered Machine Learning. We are especially interested in building more reliable, interpretable and transparent machine learning systems. 
+
+Currently, I supervise 3 PhD Students and several Masters and Undergraduate Students. 
+
+[Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/) Co-supervised with Prof. Mark Keane (September 2025).
+[Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true) (September 2025). 
+[Yunyi Shang] - Co-supervised with Prof. Gregory O'Hare (March 2026). 
 
 ### Select Conferences and Journals
 1. [OxonFair: A Flexible Toolkit for Algorithmic Fairness](https://arxiv.org/pdf/2407.13710v1).
