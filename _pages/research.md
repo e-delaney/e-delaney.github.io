@@ -16,7 +16,7 @@ author_profile: true
 ### Research Group in Human-Centered Machine Learning
 I lead a research group in Trinity College Dublin focused on Human-Centered Machine Learning. We are especially interested in building more reliable, interpretable and transparent machine learning systems.
 
-Currently, I supervise 3 PhD Students and several Masters and Undergraduate Students. 
+Currently, I supervise 3 PhD Students and several Masters and Undergraduate Students.
 
 * [Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/). Co-supervised with Prof. Mark Keane (Start Date - September 2025).
 * [Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true). (Start Date - September 2025). 
