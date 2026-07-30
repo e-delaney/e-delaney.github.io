@@ -18,10 +18,11 @@ I lead a research group in Trinity College Dublin focused on Human-Centered Mach
 
 Currently, I supervise 3 PhD Students and several Masters and Undergraduate Students.
 
-* [Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/). Co-supervised with Prof. Mark Keane (Start Date - September 2025).
+* [Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/). Co-supervised with Prof. Mark Keane as part of the Central Bank of Ireland PhD programme in AI and Data Science (Start Date - September 2025).
 * [Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true). (Start Date - September 2025). 
 * [Yunyi Shang](https://www.linkedin.com/in/yunyishang/). Co-supervised with Prof. Gregory O'Hare (PI) (Start Date - March 2026).
 * [Open Position in Machine Learning (Update: Position Filled)](https://drive.google.com/file/d/155qM4tL_VVxOIZejGFO9gf97mnNL4PoJ/view?usp=share_link) (Principal Supervisor Dr. Mimi Zhang, Co-Supervisor Me!)
+* IBM Predoc Programme (Position Filled Anticipated start date - September 2026).  
 * Visiting PhD students: If you are regisrered in a PhD programme, have funding to support a research visit, and would like to visit our group to work on a related project/paper, please feel free to reach out. 
 
 ### Select Conferences and Journals
