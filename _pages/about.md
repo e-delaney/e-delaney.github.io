@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my academic webpage! I am an Assistant Professor at the School of Computer Science and Statistics at Trinity College Dublin. Before that I spent some wonderful time at the University of Oxford. I currently lead a research group in Trinity where we focus on problems in reliable, responsible and human-centered machine learning such as algorithmic fairness and explainability.
+Hi, welcome to my academic webpage! I am an Assistant Professor in Machine Learning and Information Systems at the School of Computer Science and Statistics at Trinity College Dublin. Before that I spent some wonderful time at the University of Oxford. I currently lead a research group in Trinity where we focus on problems in reliable, responsible and human-centered machine learning.
 
 My research interests are in **responsible AI**, encompassing **algorithmic fairness**, **explainability** and **human-oversight**. I regularly publish in the top ML venues (NeurIPS, ICML,IJCAI, FAccT, AAAI, AIJ and AIES). I have won two best paper awards. I also enjoy working on applied problems and won a national award for the [Best Application of AI in a Student Project](https://twitter.com/EoinDelaney_/status/1595436264878215169) for my work on interpretable machine learning with applications in sustainable smart agriculture. I have extensive experience with deep learning and ML frameworks (Pytorch) and designing human studies to evaluate explanations of AI systems.  
 
