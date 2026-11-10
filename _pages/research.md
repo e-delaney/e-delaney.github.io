@@ -21,7 +21,7 @@ Currently, I supervise 5 PhD Students and several Masters and Undergraduate Stud
 * [Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/). Co-supervised with Prof. Mark Keane as part of the Central Bank of Ireland PhD programme in AI and Data Science (Start Date - September 2025).
 * [Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true). (Start Date - September 2025). 
 * [Yunyi Shang](https://www.linkedin.com/in/yunyishang/). Co-supervised with Prof. Gregory O'Hare (PI) (Start Date - March 2026).
-* [Open Position in Machine Learning (Update: Position Filled)](https://drive.google.com/file/d/155qM4tL_VVxOIZejGFO9gf97mnNL4PoJ/view?usp=share_link) (Principal Supervisor Dr. Mimi Zhang, Co-Supervisor Me!)
+* [Xingnuo Li](https://ie.linkedin.com/in/xingnuo-li-4a1166390) (Principal Supervisor - Mimi Zhang)
 * [Aris Hofmann](https://www.linkedin.com/in/aris-hofmann/). IBM Predoc Programme; (start date - September 2026).  
 
 
