@@ -16,13 +16,16 @@ author_profile: true
 ### Research Group in Human-Centered Machine Learning
 I lead a research group in Trinity College Dublin focused on Human-Centered Machine Learning. We are especially interested in building more reliable, interpretable and transparent machine learning systems.
 
-Currently, I supervise 5 PhD Students and several Masters and Undergraduate Students. I do not currently have open positions. 
+Currently, I am the principal supervisor for 3 PhD Students, and I also co-supervise. I frequently supervise MSc and BSc thesis and final year projects (FYPs). 
 
 * [Zhengyu Su](https://www.linkedin.com/in/zhengyu-su-a57026341/). Co-supervised with Prof. Mark Keane as part of the Central Bank of Ireland PhD programme in AI and Data Science (Start Date - September 2025).
 * [Patrick Kaiser](https://www.linkedin.com/in/patrick-kaiser-273709246/?skipRedirect=true). (Start Date - September 2025). 
-* [Yunyi Shang](https://www.linkedin.com/in/yunyishang/). Co-supervised with Prof. Gregory O'Hare (PI) (Start Date - March 2026).
-* [Xingnuo Li](https://ie.linkedin.com/in/xingnuo-li-4a1166390) (Principal Supervisor - Mimi Zhang)
-* [Aris Hofmann](https://www.linkedin.com/in/aris-hofmann/). IBM Predoc Programme; (start date - September 2026).  
+* [Aris Hofmann](https://www.linkedin.com/in/aris-hofmann/). IBM Predoc Programme; (start date - September 2026).
+
+
+* [Yunyi Shang](https://www.linkedin.com/in/yunyishang/). Co-supervised 50/50 with Prof. Gregory O'Hare as part of the CKDelta TCD partnership (PI) (Start Date - March 2026).
+* I was a co-PI on a funded CBI grant proposal led by Prof. Mimi Zhang and we recently welcomed [Xingnuo Li](https://ie.linkedin.com/in/xingnuo-li-4a1166390) to the team (Principal Supervisor - Mimi Zhang).
+
 
 
 ### Select Conferences and Journals
